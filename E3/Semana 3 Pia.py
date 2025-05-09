@@ -324,6 +324,9 @@ elif ModaRM == 2:
 elif ModaRM == 3:
     print(f"La moda de los resultados del Real Madrid es {ModaRM}, es decir Empates.")  
 
+#Otro análisis estadístico que se utilizo fue la obtencion de los porcentajes mas al principio del código, fue realizado mediante una
+#sintaxis propia y es el principal pilar para resolver el problema planteado
+
 """Preparación para visualización"""
 #Los datos que necesitaremos para nuestro análisis son los porcentajes por lo que, son primordialmente los datos mas importantes y que 
 #hay que preparar para su posterior visualización, para ello los guardaremos en un array de numpy para un posterior uso de los mismos 
